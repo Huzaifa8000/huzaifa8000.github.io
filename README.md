@@ -13,10 +13,13 @@ This repository will hold assignments and labs that I work on
 I enjoy reading, gaming, drawing, listening to music, coding apps/websites, puzzle solving, and playing volleyball and basketball. 
 ## Websites I Recommend 
 -[Youtube](https://www.youtube.com)  -I love this website because it's so versatile. You can use YouTube to listen to music, keep up with your favorite content creators, or learn a new skill. I recently learned how to solve a Rubik's cube with the help of a YouTube video.
+
 -[1440](https://discover.join1440.com/)  -I highly recommend this website for its daily newsletter that provides unbiased, easily digestible news across various categories. In a digital age where information can be unreliable and biased, 1440 is an invaluable resource for understanding current events worldwide. 
 
 ## My Favorite Things
  -**Food:** _Fried Rice_
+ 
  -**Animal:**_Whales_
+
  -**Season:**_Winter_
 
