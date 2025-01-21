@@ -10,7 +10,7 @@ This repository will hold assignments and labs that I work on
 
 # About Me
 ## My Interests
-I enjoy reading, gaming, drawing, listening to music, coding apps/websites, puzzle solving, and playing volleyball and basketball. 
+I enjoy reading, gaming, drawing, listening to music, coding apps/websites, and solving puzzles. I also like to play volleyball and basketball. 
 ## Websites I Recommend 
 -[Youtube](https://www.youtube.com)  -I love this website because it's so versatile. You can use YouTube to listen to music, keep up with your favorite content creators, or learn a new skill. I recently learned how to solve a Rubik's cube with the help of a YouTube video.
 
