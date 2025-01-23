@@ -22,7 +22,6 @@ flowchart TD
    CheckHigher --> |No| HintHigher[Hint: Guess Higher]
    HintLower --> InputGuess
    HintHigher --> InputGuess
-   Win --> END[End Game] 
 ```
 
 # **Documentation/Descriptions** 
