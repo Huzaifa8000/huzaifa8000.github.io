@@ -8,7 +8,7 @@ flowchart TD
   GenerateRandomNumber --> Instructions[Instructions]
   Instructions --> InputGuess
   InputGuess --> ValidateInput{Is Input Valid?}
-  ValidateInput -- No --> InvalidInput[Error Message] --> InputGuess
+  ValidateInput -- No --> InvalidInput[Enter numerical value within set range] --> InputGuess
   ValidateInput -- Yes --> AttemptsCheck{Attempts Left?}
   AttemptsCheck -- No --> OutOfAttempts[Game Over]
   OutOfAttempts --> PlayAgain{Play Again?}
