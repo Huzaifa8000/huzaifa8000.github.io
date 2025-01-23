@@ -27,7 +27,7 @@ flowchart TD
 
 # **Documentation/Descriptions** 
 #### **Start:** Begins the game.
-#### ** Choose Difficulty:** The user selects a difficulty level, setting the set range of numbers. 
+#### ** Choose Difficulty: ** The user selects a difficulty level, setting the set range of numbers. 
 #### **Generate Random Number:** The system picks a number within the set range.
 #### **Display Instructions:** The user sees game instructions.
 #### **Prompt User for Guess:** The user inputs a guess.
